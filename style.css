@@ -27,6 +27,14 @@ body{
     color: rgb(56, 56, 56);
 }
 
+.selecao-personagem{
+    margin: 35px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: olive;
+}
 .moana{
     
     box-shadow: olive;
