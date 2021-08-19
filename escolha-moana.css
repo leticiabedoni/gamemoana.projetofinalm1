@@ -1,6 +1,17 @@
 .frase-escolha{
-    font-size: 30px;
+    text-align: center;
+    font-size: 50px;
     font-weight: bold;
     color: olive;
     margin: 70px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.moana1{
+
+}
+
+.opcao{
+    font-size: 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px 100px ;
+}

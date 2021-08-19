@@ -10,11 +10,13 @@ body{
     
 }
 .resumo{
-    border-width: 6px;
+    border-width: 1px;
     border-style: solid;
-    border-color: rgb(73, 60, 60);
+    border-color: papayawhip;
     border-radius: 15px;
-    padding: 40px;
+    background-color: papayawhip;
+    box-shadow: 15px 15px 15px;
+    padding: 10px;
     margin-left: 250px;
     margin-right: 250px;
     font-size: 1.5em;
@@ -22,9 +24,10 @@ body{
 }
 
 .resumo:hover {
-    border-color: cornflowerblue;
-    font-size: 1.6em;
+    transition: 1.3s;
+    border-color:lightgray;
     color: rgb(56, 56, 56);
+    padding: 12px;
 }
 
 .selecao-personagem{
@@ -60,6 +63,7 @@ body{
     height: auto;
 }
 .moana:hover{
+    transition: 1.3s;
     cursor: pointer;
     text-align: center;
     margin: 30px;
@@ -70,6 +74,7 @@ body{
 }
 
 .maui:hover{
+    transition: 1.3s;
     cursor: pointer;
     margin: 30px;
     max-width:300px;
@@ -78,6 +83,7 @@ body{
 }
 
 .avo-moana:hover{
+    transition: 1.3s;
     cursor: pointer;
     margin: 30px;
     max-width:300px;
