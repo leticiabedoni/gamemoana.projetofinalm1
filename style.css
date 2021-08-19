@@ -23,7 +23,7 @@ body{
 
 .resumo:hover {
     border-color: cornflowerblue;
-    font-size: 1.7em;
+    font-size: 1.6em;
     color: rgb(56, 56, 56);
 }
 
@@ -56,6 +56,31 @@ body{
 .avo-moana{
     margin: 30px;
     max-width:250px;
+    width: auto;
+    height: auto;
+}
+.moana:hover{
+    cursor: pointer;
+    text-align: center;
+    margin: 30px;
+    margin-left: 550px;
+    max-width:300px;
+    width: auto;
+    height: auto;
+}
+
+.maui:hover{
+    cursor: pointer;
+    margin: 30px;
+    max-width:300px;
+    width: auto;
+    height: auto;
+}
+
+.avo-moana:hover{
+    cursor: pointer;
+    margin: 30px;
+    max-width:300px;
     width: auto;
     height: auto;
 }
