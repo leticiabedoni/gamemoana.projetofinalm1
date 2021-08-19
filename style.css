@@ -28,27 +28,26 @@ body{
 }
 
 .moana{
+    
+    box-shadow: olive;
     text-align: center;
     margin: 30px;
     margin-left: 550px;
-    max-width:350px;
-    max-height:150px;
+    max-width:250px;
     width: auto;
     height: auto;
 }
 
 .maui{
     margin: 30px;
-    max-width:350px;
-    max-height:150px;
+    max-width:250px;
     width: auto;
     height: auto;
 }
 
 .avo-moana{
     margin: 30px;
-    max-width:350px;
-    max-height:150px;
+    max-width:250px;
     width: auto;
     height: auto;
 }
