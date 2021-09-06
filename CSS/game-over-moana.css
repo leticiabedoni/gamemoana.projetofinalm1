@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@700&display=swap');
+
+body{
+    background-image:url(../imagens/game-over-moana.jpg);
+    background-size: 100%;
+}
+
+.game-over{
+    font-family: 'Zilla Slab', serif;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    margin: 50px;
+}
