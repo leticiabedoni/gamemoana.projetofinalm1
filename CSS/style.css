@@ -88,6 +88,9 @@ body{
     width: auto;
     height: auto;
 }
+.personagens{
+    text-align: center;
+}
 
 @media (max-width: 940px) {
     body{
