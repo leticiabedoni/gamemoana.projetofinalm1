@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(255, 243, 173);
+    background-image:url('../imagens/mar.jpg');
+    background-size: 100%;
 }
 .titulo-inicio{
     margin: 70px;
@@ -12,15 +13,16 @@ body{
 .resumo{
     border-width: 1px;
     border-style: solid;
-    border-color: papayawhip;
+    border-color: rgb(233, 219, 188);
     border-radius: 15px;
-    background-color: papayawhip;
+    background-color: rgb(233, 219, 188);
     box-shadow: 15px 15px 15px;
     padding: 10px;
     margin-left: 250px;
     margin-right: 250px;
     font-size: 1.5em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
 .resumo:hover {
