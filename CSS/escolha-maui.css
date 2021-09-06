@@ -1,3 +1,22 @@
+.flex-maui{
+    display: flex;
+}
+.botao-maui{
+    background-color:rgb(159, 175, 171);
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px;
+    margin-top: 200px;
+    margin-left: 400px;
+    font-size: 22px;
+    font-weight: bold;
+    height: 100px;
+    width: 150px;
+}
+.botao-maui:hover{
+    background-color: rgb(67, 190, 238);
+    transition: 1s;
+    cursor: pointer;
+}
 .frase-escolha{
     text-align: center;
     font-size: 50px;
