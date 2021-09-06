@@ -1,19 +1,11 @@
-function moana() {
+function escolha(){
+    var escolha=prompt("Qual sua escolha?");
 
-    while (opcao !=1 && opcao !=2) {
-        var opcao
-        opcao = prompt("Qual opção?\n1 ee \n2 fef")
+    if(escolha == 1){
+    alert("GAME OVER! Seu pai ficou furioso e pediu para que não falasse nunca nesse assunto!");
+}
 
-        if (opcao == 1) {
-            location.href = "moana-win.html"
-            break
-        }
-        else if (opcao == 2) {
-            location.href = "moana-gameover.html"
-            break
-        }
-        else    {
-            alert ("Por favor, escolha 1 ou 2.")
-        }
-    }
+    if(escolha==2){
+    alert("VOCÊ VENCEU! A sua avó te contou os mais profundos segredos da Ilha e agora você poderá salva-la!🎉")
+}
 }
