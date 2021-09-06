@@ -13,3 +13,20 @@ body{
     color: white;
     margin: 50px;
 }
+
+.back-button{
+   margin-top: 80px;
+   margin-left: 900px;
+   padding: 15px;
+   border-radius: 5px;
+   font-weight: bold;
+   background-color: black;
+   color: white;
+}
+
+.back-button:hover{
+    background-color: rgba(255, 255, 255, 0.733);
+    color: black;
+    cursor: pointer;
+    transition: 1s;
+}
